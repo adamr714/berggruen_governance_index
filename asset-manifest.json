@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/berggruen_governance_index/static/css/main.1b104de7.chunk.css",
+    "main.js": "/berggruen_governance_index/static/js/main.9e21ce8b.chunk.js",
+    "main.js.map": "/berggruen_governance_index/static/js/main.9e21ce8b.chunk.js.map",
+    "runtime-main.js": "/berggruen_governance_index/static/js/runtime-main.578e515c.js",
+    "runtime-main.js.map": "/berggruen_governance_index/static/js/runtime-main.578e515c.js.map",
+    "static/js/2.8c11c41a.chunk.js": "/berggruen_governance_index/static/js/2.8c11c41a.chunk.js",
+    "static/js/2.8c11c41a.chunk.js.map": "/berggruen_governance_index/static/js/2.8c11c41a.chunk.js.map",
+    "index.html": "/berggruen_governance_index/index.html",
+    "precache-manifest.7d63afebf8eb31e98bda4110431d1759.js": "/berggruen_governance_index/precache-manifest.7d63afebf8eb31e98bda4110431d1759.js",
+    "service-worker.js": "/berggruen_governance_index/service-worker.js",
+    "static/css/main.1b104de7.chunk.css.map": "/berggruen_governance_index/static/css/main.1b104de7.chunk.css.map",
+    "static/media/countrySummary.csv": "/berggruen_governance_index/static/media/countrySummary.06501859.csv",
+    "static/media/full_dataset.csv": "/berggruen_governance_index/static/media/full_dataset.a8b6a863.csv",
+    "static/media/info.20d92acf.svg": "/berggruen_governance_index/static/media/info.20d92acf.svg",
+    "static/media/key-first-democracy.40d58221.svg": "/berggruen_governance_index/static/media/key-first-democracy.40d58221.svg",
+    "static/media/key-first-government.b65c62bd.svg": "/berggruen_governance_index/static/media/key-first-government.b65c62bd.svg",
+    "static/media/key-first-life.683d7d8c.svg": "/berggruen_governance_index/static/media/key-first-life.683d7d8c.svg",
+    "static/media/key-second-democracy.5f65390d.svg": "/berggruen_governance_index/static/media/key-second-democracy.5f65390d.svg",
+    "static/media/key-second-government.04f6e388.svg": "/berggruen_governance_index/static/media/key-second-government.04f6e388.svg",
+    "static/media/key-second-life.ccf031e7.svg": "/berggruen_governance_index/static/media/key-second-life.ccf031e7.svg",
+    "static/media/keyA.cbf78417.svg": "/berggruen_governance_index/static/media/keyA.cbf78417.svg",
+    "static/media/keyB.952860ae.svg": "/berggruen_governance_index/static/media/keyB.952860ae.svg",
+    "static/media/logo-graphic.cd30d405.svg": "/berggruen_governance_index/static/media/logo-graphic.cd30d405.svg",
+    "static/media/logo.5862c284.svg": "/berggruen_governance_index/static/media/logo.5862c284.svg",
+    "static/media/reload.807db33f.svg": "/berggruen_governance_index/static/media/reload.807db33f.svg",
+    "static/media/scatter-placeholder.5fa03781.svg": "/berggruen_governance_index/static/media/scatter-placeholder.5fa03781.svg"
+  }
+}
